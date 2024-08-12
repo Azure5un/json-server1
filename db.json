@@ -1,0 +1,9 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Jane Doe",
+      "message": "This service was amazing!"
+    }
+  ]
+}
